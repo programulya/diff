@@ -1,0 +1,11 @@
+.add {
+    background-color: rgba(0, 100, 0, 0.5);
+}
+
+.removed {
+    background-color: rgba(255, 81, 42, 0.5);
+}
+
+.changed {
+    background-color: rgba(251, 255, 44, 0.5);
+}
